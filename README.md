@@ -7,8 +7,8 @@
 ## 👨‍💻 About Me
 I'm a C# Junior Developer based in Cracow, Poland. I've recently completed a course in software development and am eager to embark on my coding journey.
 
-## 🔭 My Journey
-Freshly after finishing coding course, I'm enthusiastic to gain hands-on experience in the world of software development.
+## 🔭 My current work
+Currently, I'm working on a project that will allow more people to start their journey with tailoring. It's going to be a web app that dynamically generates a sewing pattern of users chosing (from the ones that I've implemented of course), based on the sizes and attributes determined by the user. Right now it is possible to generate a sewing pattern for a circle skirt by providing desired length, waist circumference and how many circles you want to use (in degrees, for example two circles = 720 degrees). You can check current progress and read more [here](https://github.com/MateuszPiszczatowski/pattern_generator).
 
 ## ⚡ My Interests
 In my free time, you'll find me:
