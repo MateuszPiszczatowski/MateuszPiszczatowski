@@ -23,6 +23,7 @@ I'm accustomed to working with various technologies, including:
 - C#
 - ASP.NET
 - JavaScript
+- TypeScript
 - React
 - Python
 - Flask
