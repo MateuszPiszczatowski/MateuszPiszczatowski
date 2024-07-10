@@ -10,11 +10,6 @@ I'm a C# and MERN Junior Developer based in Cracow, Poland. I've recently comple
 ## 🔭 My current work
 Currently, I'm working on a project that will allow more people to start their journey with tailoring. It's going to be a web app that dynamically generates a sewing pattern of users chosing (from the ones that I've implemented of course), based on the sizes and attributes determined by the user. Right now it is possible to generate a sewing pattern for a circle skirt by providing desired length, waist circumference and how many circles you want to use (in degrees, for example two circles = 720 degrees). You can check current progress and read more [here](https://github.com/MateuszPiszczatowski/pattern_generator).
 
-## ⚡ My Interests
-In my free time, you'll find me:
-- Challenging myself on Codewars.
-- Exploring the immersive world of video games, especially RPGs.
-
 ## 📫 How to Reach Me
 Feel free to connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Mateusz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-piszczatowski/).
 
@@ -27,7 +22,10 @@ I'm accustomed to working with various technologies, including:
 - React
 - Python
 - Flask
+- Jinja
+- Django
 - CSS
+- SCSS
 - HTML
 - Git
 - Node.js
